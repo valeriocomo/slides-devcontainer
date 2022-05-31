@@ -23,7 +23,7 @@ image: 'https://unsplash.com/photos/uBe2mknURG4/download?force=true&w=1920'
 # Overview
 
 * Problema
-* VSCode remote features
+* Soluzione
 * Considerazioni
 
 ---
