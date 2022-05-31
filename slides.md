@@ -146,6 +146,12 @@ layout: section
 layout: statement
 ---
 
+# VSCode Remote Feature
+
+---
+layout: statement
+---
+
 Visual Studio Code Remote Development consente di utilizzare un container, oppure una macchina remota, oppure Windows Subsystem for Linux (WSL) come development environment.
 
 ---
@@ -173,7 +179,7 @@ Visual Studio Code Remote Development consente di utilizzare un container, oppur
 
 # VSCode Remote Feature
 
-<img src="https://code.visualstudio.com/assets/docs/remote/remote-overview/architecture.png">
+<img src="https://code.visualstudio.com/assets/docs/remote/remote-overview/architecture.png?force=true">
 
 ---
 
@@ -191,7 +197,7 @@ Include le tre estensioni
 # VSCode Remote Feature
 ## Remote - Containers
 
-<img src="https://code.visualstudio.com/assets/docs/remote/containers/architecture-containers.png">
+<img src="https://code.visualstudio.com/assets/docs/remote/containers/architecture-containers.png?force=true">
 
 ---
 
