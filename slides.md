@@ -24,6 +24,7 @@ image: 'https://unsplash.com/photos/uBe2mknURG4/download?force=true&w=1920'
 
 * Problema
 * Soluzione
+* Demo
 * Considerazioni
 
 ---
@@ -215,6 +216,11 @@ devcontainer.json
 - automazione
 
 </v-clicks>
+---
+layout: section
+---
+
+# Demo
 
 ---
 layout: section
