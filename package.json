@@ -1,4 +1,13 @@
 {
+  "name": "slides-devcontainer",
+  "description": "These slides are on Devcontainer 101 lightning talk",
+  "author": {
+    "name": "Valerio Como",
+    "email": "valeriocomo@gmail.com"
+  },
+  "homepage": "https://valeriocomo.github.io/slides-devcontainer/",
+  "version": "0.0.1",
+  "license": "CC-BY-SA-4.0",
   "private": true,
   "scripts": {
     "dev": "slidev --open",
@@ -6,10 +15,9 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.32.3",
+    "@slidev/cli": "^0.33.0",
     "@slidev/theme-apple-basic": "^0.20.0",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
-  },
-  "name": "devcontainer"
+  }
 }
